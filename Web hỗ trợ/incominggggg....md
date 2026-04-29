@@ -10,3 +10,7 @@ Clawnix
 Shodan
 Hackviser
 Luke ahmed
+overthewired.org
+cyberdenfenders.org
+letsdefend.io
+opensecuritytraining.info
