@@ -94,3 +94,45 @@ psexec.py inlanefreight.local/wley:'transporter@4'@172.16.5.125
 wmiexec.py inlanefreight.local/wley:'transporter@4'@172.16.5.5
 ```
 ![[Screenshot 2026-05-25 at 16.59.54.png]]
+## Windapsearch
+#### Windapsearch - Domain Admins
+
+```shell
+3kjS@htb[/htb]$ python3 windapsearch.py --dc-ip 172.16.5.5 -u forend@inlanefreight.local -p Klmcargo2 --da
+```
+#### Windapsearch - Privileged Users
+
+```shell
+3kjS@htb[/htb]$ python3 windapsearch.py --dc-ip 172.16.5.5 -u forend@inlanefreight.local -p Klmcargo2 -PU
+```
+## Bloodhound.py
+#### BloodHound.py Options
+
+```shell
+3kjS@htb[/htb]$ bloodhound-python -h
+```
+#### Executing BloodHound.py
+
+```shell
+3kjS@htb[/htb]$ sudo bloodhound-python -u 'forend' -p 'Klmcargo2' -ns 172.16.5.5 -d inlanefreight.local -c all
+```
+#### Viewing the Results
+
+```shell
+3kjS@htb[/htb]$ ls 
+
+20220307163102_computers.json   20220307163102_domains.json 
+
+20220307163102_groups.json   20220307163102_users.json
+```
+#### Upload the Zip File into the BloodHound GUI
+
+We could then type `sudo neo4j start` to start the [neo4j](https://neo4j.com/) service, firing up the database we'll load the data into and also run Cypher queries against.
+
+Next, we can type `bloodhound` from our Linux attack host when logged in using `freerdp` to start the BloodHound GUI application and upload the data. The credentials are pre-populated on the Linux attack host, but if for some reason a credential prompt is shown, use:
+
+- `user == neo4j` / `pass == HTB_@cademy_stdnt!`.
+#### Uploading the Zip File
+![[Pasted image 20260525170841.png]]
+#### Searching for Relationships
+![[Pasted image 20260525170921.png]]
