@@ -1,5 +1,5 @@
 
-[[Generate Password]] | [[Hydra]] | [[Enumeration & BruteForce (lab)]] 
+[[Generate Password]] | [[CyberSecurity/Red Team/Tổng hợp các Tools/Hydra]] | [[Enumeration & BruteForce (lab)]] 
 
 ## Landing page
 
