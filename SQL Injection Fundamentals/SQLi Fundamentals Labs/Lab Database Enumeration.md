@@ -1,4 +1,4 @@
-# [Database Enumeration](CPTS/SQL%20Injection%20Fundamentals/Database%20Enumeration.md)
+# [Database Enumeration](SQL%20Injection%20Fundamentals/Database%20Enumeration.md)
 ### What is the password hash for 'newuser' stored in the 'users' table in the 'ilfreight' database?
 
 ```sql

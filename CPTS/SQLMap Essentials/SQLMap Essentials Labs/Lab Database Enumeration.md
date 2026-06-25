@@ -1,4 +1,4 @@
-# [Database Enumeration](SQLMap%20Essentials/Database%20Enumeration.md)
+# [Database Enumeration](CPTS/SQLMap%20Essentials/Database%20Enumeration.md)
 ### What's the contents of table flag1 in the testdb database? (Case #1)
 
 ```shell
