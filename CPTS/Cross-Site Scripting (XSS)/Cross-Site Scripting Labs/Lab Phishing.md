@@ -1,4 +1,4 @@
-# [Phishing](Cross-Site%20Scripting%20(XSS)/Phishing.md)
+# [Phishing](CPTS/Cross-Site%20Scripting%20(XSS)/Phishing.md)
 ### Try to find a working XSS payload for the Image URL form found at '/phishing' in the above server, and then use what you learned in this section to prepare a malicious URL that injects a malicious login form. Then visit '/phishing/send.php' to send the URL to the victim, and they will log into the malicious login form. If you did everything correctly, you should receive the victim's login credentials, which you can use to login to '/phishing/login.php' and obtain the flag.
 
 ```javascript

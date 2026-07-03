@@ -1,4 +1,4 @@
-# [Session Hijacking](Cross-Site%20Scripting%20(XSS)/Session%20Hijacking.md)
+# [Session Hijacking](Session%20Hijacking.md)
 ### Try to repeat what you learned in this section to identify the vulnerable input field and find a working XSS payload, and then use the 'Session Hijacking' scripts to grab the Admin's cookie and use it in 'login.php' to get the flag.
 
 ![](Screenshot%202026-06-27%20at%2015.19.47.png)
