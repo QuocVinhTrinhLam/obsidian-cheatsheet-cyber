@@ -1,4 +1,7 @@
 [
   "obsidian-minimal-settings",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-paste-image-rename",
+  "dataview",
+  "omnisearch"
 ]
