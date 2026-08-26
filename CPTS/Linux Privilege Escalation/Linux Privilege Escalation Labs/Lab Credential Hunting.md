@@ -1,4 +1,4 @@
-# [Credential Hunting](Credential%20Hunting.md)
+# [Credential Hunting](CPTS/Linux%20Privilege%20Escalation/Information%20Gathering/Credential%20Hunting.md)
 ### Find the WordPress database password.
 
 ```shell

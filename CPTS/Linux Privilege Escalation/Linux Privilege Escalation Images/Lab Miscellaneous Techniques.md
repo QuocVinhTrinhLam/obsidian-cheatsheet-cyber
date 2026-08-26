@@ -1,4 +1,4 @@
-# [Miscellaneous Techniques](Miscellaneous%20Techniques.md)
+# [Miscellaneous Techniques](CPTS/Linux%20Privilege%20Escalation/Service-based%20Privilege%20Escalation/Miscellaneous%20Techniques.md)
 ### Review the NFS server's export list and find a directory holding a flag.
 
 ```shell

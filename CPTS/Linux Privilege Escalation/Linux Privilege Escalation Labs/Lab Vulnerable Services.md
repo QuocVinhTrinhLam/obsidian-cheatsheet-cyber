@@ -1,4 +1,4 @@
-# [Vulnerable Services](Vulnerable%20Services.md)
+# [Vulnerable Services](CPTS/Linux%20Privilege%20Escalation/Service-based%20Privilege%20Escalation/Vulnerable%20Services.md)
 ### Connect to the target system and escalate privileges using the Screen exploit. Submit the contents of the flag.txt file in the /root/screen_exploit directory.
 
 Create a .sh file to execute

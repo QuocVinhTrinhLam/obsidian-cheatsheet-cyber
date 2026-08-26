@@ -5,6 +5,3 @@
 ## You can rewrite this code in a way that prevents the user input from interfering with the query structure:
 
 `PreparedStatement statement = connection.prepareStatement("SELECT * FROM products WHERE category = ?"); statement.setString(1, input); ResultSet resultSet = statement.executeQuery();`
-
-
-
