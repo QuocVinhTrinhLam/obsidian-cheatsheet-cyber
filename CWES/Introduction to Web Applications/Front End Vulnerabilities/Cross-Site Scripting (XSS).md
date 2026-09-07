@@ -1,0 +1,12 @@
+|Type|Description|
+|---|---|
+|`Reflected XSS`|Occurs when user input is displayed on the page after processing (e.g., search result or error message).|
+|`Stored XSS`|Occurs when user input is stored in the back end database and then displayed upon retrieval (e.g., posts or comments).|
+|`DOM XSS`|Occurs when user input is directly shown in the browser and is written to an `HTML` DOM object (e.g., vulnerable username or page title).|
+```js
+#"><img src=/ onerror=alert(document.cookie)>
+```
+
+Once we input our payload and hit `ok`, we see that an alert window pops up with the cookie value in it:
+
+![](Cross-Site%20Scripting%20(XSS)-20260907-161620.png)
