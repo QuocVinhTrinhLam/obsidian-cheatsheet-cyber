@@ -2,5 +2,5 @@
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "useMarkdownLinks": true,
-  "attachmentFolderPath": "CWES/Web Request/Web Request Attatchments"
+  "attachmentFolderPath": "Web Fuzzing/Web Fuzzing Attachments"
 }
