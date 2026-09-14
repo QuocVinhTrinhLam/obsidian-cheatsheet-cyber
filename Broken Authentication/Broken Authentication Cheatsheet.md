@@ -1,0 +1,1 @@
+![](Broken%20Authentication%20-%20cheatsheet.pdf)
