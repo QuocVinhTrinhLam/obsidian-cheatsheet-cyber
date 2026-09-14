@@ -1,4 +1,4 @@
-# [Vulnerable Password Reset](Broken%20Authentication/Vulnerable%20Password%20Reset.md)
+# [Vulnerable Password Reset](Vulnerable%20Password%20Reset.md)
 ### Which city is the admin user from?
 
 ```sh
