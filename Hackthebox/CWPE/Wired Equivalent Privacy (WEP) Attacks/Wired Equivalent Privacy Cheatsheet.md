@@ -1,0 +1,1 @@
+![](Wired%20Equivalent%20Privacy%20(WEP)%20Attacks%20-%20cheatsheet.pdf)
