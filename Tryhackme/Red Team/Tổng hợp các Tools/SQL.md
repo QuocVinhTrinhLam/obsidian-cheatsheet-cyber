@@ -1,4 +1,4 @@
-[[CyberSecurity/Red Team/Web Pentest/SQL injection]] [[XSS (sqli + jwt)]]
+[[Tryhackme/Red Team/Web Pentest/SQL injection]] [[XSS (sqli + jwt)]]
 
 | **Nhóm lệnh**        | **Mục đích**              |
 | -------------------- | ------------------------- |
