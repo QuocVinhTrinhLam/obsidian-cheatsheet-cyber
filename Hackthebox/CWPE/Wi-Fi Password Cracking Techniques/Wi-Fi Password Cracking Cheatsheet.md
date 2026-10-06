@@ -1,1 +1,1 @@
-![](Wi-Fi%20Password%20Cracking%20Techniques%20-%20cheatsheet.pdf)![](Screenshot%202026-09-22%20at%2014.48.31.png)
+![](Wi-Fi%20Password%20Cracking%20Techniques%20-%20cheatsheet.pdf)

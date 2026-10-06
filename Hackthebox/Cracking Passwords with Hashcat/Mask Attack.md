@@ -1,13 +1,13 @@
-|**Placeholder**|**Meaning**|
-|---|---|
-|?l|lower-case ASCII letters (a-z)|
-|?u|upper-case ASCII letters (A-Z)|
-|?d|digits (0-9)|
-|?h|0123456789abcdef|
-|?H|0123456789ABCDEF|
-|?s|special characters («space»!"#$%&'()*+,-./:;<=>?@[]^_`{|
-|?a|?l?u?d?s|
-|?b|0x00 - 0xff|
+| **Placeholder** | **Meaning**                                             |
+| --------------- | ------------------------------------------------------- |
+| ?l              | lower-case ASCII letters (a-z)                          |
+| ?u              | upper-case ASCII letters (A-Z)                          |
+| ?d              | digits (0-9)                                            |
+| ?h              | 0123456789abcdef                                        |
+| ?H              | 0123456789ABCDEF                                        |
+| ?s              | special characters («space»!"#$%&'()*+,-./:;<=>?@[]^_`{ |
+| ?a              | ?l?u?d?s                                                |
+| ?b              | 0x00 - 0xff                                             |
 #### Creating MD5 hashes
 
 ```sh

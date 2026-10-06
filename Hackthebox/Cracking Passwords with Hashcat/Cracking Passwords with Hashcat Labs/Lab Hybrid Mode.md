@@ -1,4 +1,4 @@
-# [Hybrid Mode](Hybrid%20Mode.md)
+# [Hybrid Mode](Hackthebox/Cracking%20Passwords%20with%20Hashcat/Hybrid%20Mode.md)
 ### Crack the following hash: 978078e7845f2fb2e20399d9e80475bc1c275e06 using the mask ?d?s.
 
 ```sh
