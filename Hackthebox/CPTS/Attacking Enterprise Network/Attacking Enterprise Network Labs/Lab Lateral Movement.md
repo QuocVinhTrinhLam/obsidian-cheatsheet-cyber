@@ -1,4 +1,4 @@
-# [Lateral Movement](Lateral%20Movement.md)
+# [Lateral Movement](Hackthebox/CPTS/Attacking%20Enterprise%20Network/Lateral%20Movement.md)
 ### Find a backup script that contains the password for the backupadm user. Submit this user's password as your answer.
 
 Upload [PowerView.ps1](https://github.com/PowerShellMafia/PowerSploit/blob/master/Recon/PowerView.ps1) on web server, remember to modify `Allowable File Extensions`

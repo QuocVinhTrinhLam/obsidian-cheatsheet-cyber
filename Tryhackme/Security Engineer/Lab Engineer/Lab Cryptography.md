@@ -1,4 +1,4 @@
-## [[Cryptography]] | [[GNU Privacy Guard & OpenSSL Project]]
+## [[Tryhackme/Security Engineer/Introduction Cryptography/Cryptography]] | [[GNU Privacy Guard & OpenSSL Project]]
 
 ___
 ## Task 02: Symmetric Encryption

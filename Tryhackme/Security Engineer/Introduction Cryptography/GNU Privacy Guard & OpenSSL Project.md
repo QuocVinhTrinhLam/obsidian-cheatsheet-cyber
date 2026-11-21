@@ -1,4 +1,4 @@
-## [[Cryptography]] | [[Lab Cryptography]]
+## [[Tryhackme/Security Engineer/Introduction Cryptography/Cryptography]] | [[Lab Cryptography]]
 
 ___
 
